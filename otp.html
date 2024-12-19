@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Enter OTP</title>
+    <link rel="stylesheet" href="otp.css">
+</head>
+
+<body>
+    <div id="main">
+        <form>
+            <h1>Please Enter Your OTP</h1>
+            <input type="password" class="otp" placeholder="Enter OTP" />
+            <input type="submit" id="submit" />
+        </form>
+    </div>
+
+    <script>
+        document.querySelector("form").addEventListener("submit", submitOTP);
+
+        function submitOTP(event) {
+            event.preventDefault();
+
+            var otp = document.querySelector(".otp").value;
+
+            if (otp == 1234) {
+                alert("Payment Successful, redirecting to Home");
+                window.location.href = "index.html"   // homepage link
+            } else {
+                alert("Wrong OTP!")
+            }
+        }
+    </script>
+</body>
+
+</html>
