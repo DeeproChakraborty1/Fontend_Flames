@@ -1,0 +1,10 @@
+[
+    { "id": 1, "name": "Lipstick", "price": 500, "category": "Makeup", "image": "lipsticks.png" },
+    { "id": 2, "name": "Foundation", "price": 1200, "category": "Makeup", "image": "foundation.jpg" },
+    { "id": 3, "name": "Moisturizer", "price": 700, "category": "Skincare", "image": "moisturizer.jpg" },
+    { "id": 4, "name": "Face Wash", "price": 300, "category": "Skincare", "image": "facewash.jpg" },
+    { "id": 5, "name": "Shampoo", "price": 400, "category": "Haircare", "image": "shampoo.jpg" },
+    { "id": 6, "name": "Conditioner", "price": 350, "category": "Haircare", "image": "conditioner.jpg" },
+    { "id": 7, "name": "Body Lotion", "price": 600, "category": "Bodycare", "image": "bodylotion.jpg" },
+    { "id": 8, "name": "Perfume", "price": 1500, "category": "Fragrance", "image": "perfume.jpg" ,"details":"xyz product have awason fragnance." }
+]
