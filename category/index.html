@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>categories</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Category</h1>
+        <button id="cart-button">Cart (<span id="cart-count">0</span>)</button>
+      </header>
+    
+      <section class="categoriesAndFilter">
+        <!-- Horizontal Categories -->
+        <section id="categories">
+          <button data-category="all" class="active">All</button>
+          <button data-category="Makeup">Makeup</button>
+          <button data-category="Skincare">Skincare</button>
+          <button data-category="Haircare">Haircare</button>
+          <button data-category="Bodycare">Bodycare</button>
+          <button data-category="Fragrance">Fragrance</button>
+          <button data-category="cameras">Cameras</button>
+        </section>
+    
+        <!-- Filters for Min/Max Price -->
+        <section id="filters">
+          <label for="min-price">Min Price:</label>
+          <input type="number" id="min-price" placeholder="Min">
+          <label for="max-price">Max Price:</label>
+          <input type="number" id="max-price" placeholder="Max">
+          <button id="apply-filters">Apply Filters</button>
+        </section>
+    
+      </section>
+    
+      <!-- Product Grid -->
+      <section id="products"></section>
+    
+      <!-- Cart Modal -->
+      <div id="cart-modal">
+        <h2>Cart</h2>
+        <ul id="cart-items"></ul>
+        <div id="cart-total-container">
+          <strong>Total: ₹<span id="cart-total">0</span></strong>
+          <button id="checkout-button">Checkout</button>
+        </div>
+        <button id="close-cart">Close</button>
+      </div>
+
+      <script src="script.js"></script>
+</body>
+</html>
