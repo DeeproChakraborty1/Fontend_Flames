@@ -10,5 +10,5 @@ document.getElementById('login-form').addEventListener('submit', function(event)
 
     console.log(email);
     console.log(password);
-    window.location.href = 'homepage.html';
+    window.location.href = 'index.html';
 });
