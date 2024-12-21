@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>categories</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+</head>
+<body>
+    <header>
+        <h1>Category</h1>
+        <button id="cart-button"><i class="fa-solid fa-bag-shopping"></i> <span id="cart-count">0</span></button>
+      </header>
+      <!-- <button></button> -->
+    
+      <section class="categoriesAndFilter">
+        <!-- Horizontal Categories -->
+        <section id="categories">
+          <button data-category="all" class="active">All</button>
+          <button data-category="Makeup">Makeup</button>
+          <button data-category="Skincare">Skincare</button>
+          <button data-category="Haircare">Haircare</button>
+          <button data-category="Bodycare">Bodycare</button>
+          <button data-category="Fragrance">Fragrance</button>
+          <button data-category="BabyProducts">Baby Products</button>
+        </section>
+        <div class="sort-container">
+          <label for="sort-options">Sort by:</label>
+          <select id="sort-options" onchange="sortProducts()">
+            <option value="default">Default</option>
+            <option value="price-low-high">Price: Low to High</option>
+            <option value="price-high-low">Price: High to Low</option>
+            <option value="rating-high-low">Rating: High to Low</option>
+            <option value="rating-low-high">Rating: Low to High</option>
+          </select>
+        </div>
+        
+    
+        <!-- Filters for Min/Max Price -->
+        <section id="filters">
+          <label for="min-price">Min Price:</label>
+          <input type="number" id="min-price" placeholder="Min">
+          <label for="max-price">Max Price:</label>
+          <input type="number" id="max-price" placeholder="Max">
+          <button id="apply-filters">Apply Filters</button>
+        </section>
+    
+      </section>
+    
+      <!-- Product Grid -->
+      <section id="products"></section>
+    
+      <!-- Cart Modal -->
+      <div id="cart-modal">
+        <div id="close-cart-div">
+          <h2>Cart</h2>
+          <button id="close-cart">X</button>
+        </div>
+        <div id="cart-items"></div>
+        <div id="cart-total-container">
+          <strong>Total: ₹<span id="cart-total">0</span></strong>
+          <button id="checkout-button">Checkout</button>
+        </div>
+      </div>
+
+      <script src="script.js"></script>
+</body>
+</html>
