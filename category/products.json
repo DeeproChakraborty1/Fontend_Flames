@@ -1,0 +1,423 @@
+[
+    {
+        "id": 1,
+        "name": "Simple kind to skin Refreshing Facial Wash",
+        "price": 359,
+        "category": "Skincare",
+        "image": "images/skincare1.png",
+        "rating": 4.5
+    },
+    {
+        "id": 2,
+        "name": "Kama Ayurveda Kumkumadi Thailam",
+        "price": 3895,
+        "category": "Skincare",
+        "image": "images/skincare2.png",
+        "rating": 4.5
+    },
+    {
+        "id": 3,
+        "name": "CeraVe Hedrating Cleanser Non-Foaming Face Wash",
+        "price": 315,
+        "category": "Skincare",
+        "image": "images/skincare3.png",
+        "rating": 4.2
+    },
+    {
+        "id": 4,
+        "name": "Minimalisr 10% Vitamin C Serum For Face",
+        "price": 699,
+        "category": "Skincare",
+        "image": "images/skincare4.png",
+        "rating": 3.9
+    },
+    {
+        "id": 5,
+        "name": "Beauty of Joseon Dynasty Cream",
+        "price": 2000,
+        "category": "Skincare",
+        "image": "images/skincare5.png",
+        "rating": 4.5
+    },
+    {
+        "id": 6,
+        "name": "Deconstruct Lightweight Gel Oil-Free Moisturizer",
+        "price": 325,
+        "category": "Skincare",
+        "image": "images/skincare6.png",
+        "rating": 4.5
+
+    },
+    {
+        "id": 7,
+        "name": "The Face Shop Rice & Ceramide Moisturizing",
+        "price": 419,
+        "category": "Skincare",
+        "image": "images/skincare7.png",
+        "rating": 4.5
+    },
+    {
+        "id": 8,
+        "name": "The Derma Co 1% Healuronic Long Lasting",
+        "price": 552,
+        "category": "Skincare",
+        "image": "images/skincare8.png",
+        "rating": 4.5
+    },
+    {
+        "id": 9,
+        "name": "Estee Luader Sunscreen-Perfectionist Pro Multi-Purpose",
+        "price": 3900,
+        "category": "Skincare",
+        "image": "images/skincare9.png",
+        "rating": 4.5
+    },
+    {
+        "id": 10,
+        "name": "L'Oreal Paris UV Defender Serum",
+        "price": 677,
+        "category": "Skincare",
+        "image": "images/skincare10.png",
+        "rating": 4.5
+    },
+    {
+        "id": 11,
+        "name": "Anomaly Ultimate Frizz Fighting Shampoo and conditioner",
+        "price": 1336,
+        "category": "Haircare",
+        "image": "images/hair1.png",
+        "rating": 4.5
+    },
+    {
+        "id": 2,
+        "name": "L'Oreal Professional Absolute Repair Shampoo",
+        "price": 1589,
+        "category": "Haircare",
+        "image": "images/hair2.png",
+        "rating": 4.5
+    },
+    {
+        "id": 13,
+        "name": "Matrix Opti Care Professional Ultra",
+        "price": 675,
+        "category": "Haircare",
+        "image": "images/hair3.png",
+        "rating": 4.5
+    },
+    {
+        "id": 14,
+        "name": "Mamaearth Onion Shampoo for Anti Hair Fall",
+        "price": 321,
+        "category": "Haircare",
+        "image": "images/hair4.png",
+        "rating": 4.5
+    },
+    {
+        "id": 15,
+        "name": "The Oridinary Multi-peptide Serum for Hair Density",
+        "price": 2150,
+        "category": "Haircare",
+        "image": "images/hair5.png",
+        "rating": 4.5
+    },
+    {
+        "id": 16,
+        "name": "Love Beauty & Planet argan Oil & Lavender Hair Serum",
+        "price": 320,
+        "category": "Haircare",
+        "image": "images/hair6.png",
+        "rating": 4.5
+    },
+    {
+        "id": 17,
+        "name": "Dove Scalp+Hair Therapy Sulphate Free Density",
+        "price": 548,
+        "category": "Haircare",
+        "image": "images/hair7.png",
+        "rating": 4.5
+    },
+    {
+        "id": 18,
+        "name": "Tresemme Keratin Smooth With Argan Oil Conditioner",
+        "price": 202,
+        "category": "Haircare",
+        "image": "images/hair8.png",
+        "rating": 4.5
+    },
+    {
+        "id": 19,
+        "name": "L'Oreal Paris Casting Creme Gloss Hair Color",
+        "price": 699,
+        "category": "Haircare",
+        "image": "images/hair9.png",
+        "rating": 4.5
+    },
+    {
+        "id": 20,
+        "name": "Bare Anatomy Anti Frizz Leave In Conditioner",
+        "price": 519,
+        "category": "Haircare",
+        "image": "images/hair10.png",
+        "rating": 4.5
+    },
+    {
+        "id": 21,
+        "name": "Swiss Beauty Glow and Fix Combo",
+        "price": 574,
+        "category": "Makeup",
+        "image": "images/makeup1.png",
+        "rating": 4.5
+    },
+    {
+        "id": 22,
+        "name": "Kay Beauty Forever Fabulous Combo-Matte",
+        "price": 3031,
+        "category": "Makeup",
+        "image": "images/makeup2.png",
+        "rating": 4.5
+    },
+    {
+        "id": 23,
+        "name": "Nykaa Matte To Last ! Tranferproof Liquid",
+        "price": 439,
+        "category": "Makeup",
+        "image": "images/makeup3.png",
+        "rating": 4.5
+    },
+    {
+        "id": 24,
+        "name": "Charlotte Tilbury Matte Revolution",
+        "price": 3450,
+        "category": "Makeup",
+        "image": "images/makeup4.png",
+        "rating": 4.5
+    },
+    {
+        "id": 25,
+        "name": "Kay Beauty Lip Tint-Lush",
+        "price": 809,
+        "category": "Makeup",
+        "image": "images/makeup5.png",
+        "rating": 4.5
+    },
+    {
+        "id": 26,
+        "name": "Kay Beauty Forever Matte Compact",
+        "price": 764,
+        "category": "Makeup",
+        "image": "images/makeup6.png",
+        "rating": 4.5
+    },
+    {
+        "id": 27,
+        "name": "Huda Beauty Easy Bake And Snatch pressed",
+        "price": 3450,
+        "category": "Makeup",
+        "image": "images/makeup7.png",
+        "rating": 4.5
+    },
+    {
+        "id": 28,
+        "name": "Forest Essentials Gulaab Khaas Kajal",
+        "price": 950,
+        "category": "Makeup",
+        "image": "images/makeup8.png",
+        "rating": 4.5
+    },
+    {
+        "id": 29,
+        "name": "Inglot AMC Eyeliner Gel",
+        "price": 1785,
+        "category": "Makeup",
+        "image": "images/makeup9.png",
+        "rating": 4.5
+    },
+    {
+        "id": 30,
+        "name": "Nykaa Cosmetics Get Chessky Blush Stick ",
+        "price": 539,
+        "category": "Makeup",
+        "image": "images/makeup10.png",
+        "rating": 4.5
+    },
+    {
+        "id": 31,
+        "name": "Lakme Double Duty Lip & Cheek Mousse Matte ",
+        "price": 450,
+        "category": "Makeup",
+        "image": "images/makeup11.png",
+        "rating": 4.5
+    },
+    {
+        "id": 32,
+        "name": "Plum BodyLovin' Vanilla Caramello Eau De Parfum",
+        "price": 764,
+        "category": "Fragrance",
+        "image": "images/frag1.png",
+        "rating": 4.5,
+        "details": "Plum BodyLovin' Vanilla Caramello Eau De Parfum have awason fragnance."
+    },
+    {
+        "id": 33,
+        "name": "Plum BodyLovin' Vanilla Vibes Eau De Parfume",
+        "price": 266,
+        "category": "Fragrance",
+        "image": "images/frag2.png",
+        "rating": 4.5,
+        "details": "Plum BodyLovin' Vanilla Vibes Eau De Parfume product have awason fragnance."
+    },
+    {
+        "id": 34,
+        "name": "LANEIGE Midnight Minis Set",
+        "price": 1250,
+        "category": "Fragrance",
+        "image": "images/frag3.png",
+        "rating": 4.5,
+        "details": "xyz product have awason fragnance."
+    },
+    {
+        "id": 35,
+        "name": "Jean Paul Gaultier Le MAle Eau DE Perfum For Him",
+        "price": 5814,
+        "category": "Fragrance",
+        "image": "images/frag4.png",
+        "rating": 4.5,
+        "details": "xyz product have awason fragnance."
+    },
+    {
+        "id": 36,
+        "name": "Bella Vita Organic Skai Aquatic Travel Szie Gift Set",
+        "price": 577,
+        "category": "Fragrance",
+        "image": "images/frag5.png",
+        "rating": 4.5,
+        "details": "xyz product have awason fragnance."
+    },
+    {
+        "id": 38,
+        "name": "Vaseline Gluta-Hya Dewy Radiance Lotion Bright",
+        "price": 276,
+        "category": "Bodycare",
+        "image": "images/body1.png",
+        "rating": 4.5,
+        "details": "xyz product have awason fragnance."
+    },
+    {
+        "id": 39,
+        "name": "Plum BodyLovin Vanilla Caramello Body Lotion",
+        "price": 404,
+        "category": "Bodycare",
+        "image": "images/body2.png",
+        "rating": 4.5,
+        "details": "xyz product have awason fragnance."
+    },
+    {
+        "id": 40,
+        "name": "Dermafique Intesive Restore Body Serum With",
+        "price": 329,
+        "category": "Bodycare",
+        "image": "images/body3.png",
+        "rating": 4.5,
+        "details": "xyz product have awason fragnance."
+    },
+    {
+        "id": 41,
+        "name": "Lux Lavender & Vit C+ Rose & Aloevera Shim Body",
+        "price": 324,
+        "category": "Bodycare",
+        "image": "images/body4.png",
+        "rating": 4.5,
+        "details": "xyz product have awason fragnance."
+    },
+    {
+        "id": 42,
+        "name": "Palmolive Aroma Therapy Absolute Relax Shower Gel",
+        "price": 345,
+        "category": "Bodycare",
+        "image": "images/body5.png",
+        "rating": 4.5,
+        "details": "xyz product have awason fragnance."
+    },
+    {
+        "id": 43,
+        "name": "Mcaffeine Blueberry Breeze Body Scrub For",
+        "price": 382,
+        "category": "Bodycare",
+        "image": "images/body6.png",
+        "rating": 4.5,
+        "details": "xyz product have awason fragnance."
+    },
+    {
+        "id": 44,
+        "name": "Be Bodywise 10% AHA Body scrub",
+        "price": 349,
+        "category": "Bodycare",
+        "image": "images/body7.png",
+        "rating": 4.5,
+        "details": "xyz product have awason fragnance."
+    },
+    {
+        "id": 45,
+        "name": "Be Bodywise 10% BHA Underarm Roll On-Treats",
+        "price": 329,
+        "category": "Bodycare",
+        "image": "images/body8.png",
+        "rating": 4.5,
+        "details": "xyz product have awason fragnance."
+    },
+    {
+        "id": 46,
+        "name": "Mcaffeaine 3 Assorted Cofee Body Washes",
+        "price": 502,
+        "category": "Bodycare",
+        "image": "images/body9.png",
+        "rating": 4.5,
+        "details": "xyz product have awason fragnance."
+    },
+    {
+        "id": 47,
+        "name": "Wishcare Detan Combo Sunscreen SPF 50 Broad",
+        "price": 758,
+        "category": "Bodycare",
+        "image": "images/body10.png",
+        "rating": 4.5,
+        "details": "xyz product have awason fragnance."
+    },
+    {
+        "id": 48,
+        "name": "Nat Habit Pure Olive Baby Oil",
+        "price": 254,
+        "category": "BabyProducts",
+        "image": "images/baby1.png",
+        "rating": 4.5,
+        "details": "xyz product have awason fragnance."
+    },
+    {
+        "id": 49,
+        "name": "Cetaphil Baby Massage Oil With Shea Butter",
+        "price": 582,
+        "category": "BabyProducts",
+        "image": "images/baby2.png",
+        "rating": 4.5,
+        "details": "xyz product have awason fragnance."
+    },
+    {
+        "id": 50,
+        "name": "Mamaearth Daily Moisturizing Baby Lotion",
+        "price": 237,
+        "category": "BabyProducts",
+        "image": "images/baby3.png",
+        "rating": 4.5,
+        "details": "xyz product have awason fragnance."
+    },
+    {
+        "id": 51,
+        "name": "Johnson's New Baby Lotion",
+        "price": 432,
+        "category": "BabyProducts",
+        "image": "images/baby4.png",
+        "rating": 4.5,
+        "details": "xyz product have awason fragnance."
+    }
+
+]
