@@ -62,12 +62,12 @@ p {
     font-size: 14px;
 }
 
-a {
-    color: #ccc;
+#btn {
+    color: white;
     text-decoration: none;
 }
 
-a:hover {
+#btn:hover {
     text-decoration: underline;
 }
 
