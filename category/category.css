@@ -22,7 +22,7 @@ body {
   }
 
   #categories button {
-    padding: 0.5rem 1.5rem;
+    padding: 0.5rem 1rem;
     border: 2px solid rgb(198, 13, 124);
     cursor: pointer;
     border-radius: 25px;
@@ -108,8 +108,17 @@ body {
     background-color: white;
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: left;
   }
+
+  .product-card p{
+    margin: 5px;
+  }
+
+  .product-card h3{
+    margin: 5px;
+  }
+
 
   @media screen and (min-width:1024px) {
     #products{
@@ -266,12 +275,13 @@ body {
   }
 
   .categoriesAndFilter{
+    
     display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 1rem;
-  background-color: rgba(194, 194, 240, 0.193);
-  flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    background-color: rgba(194, 194, 240, 0.193);
+    flex-wrap: wrap;
   }
 
  
